@@ -1,0 +1,8 @@
+Hello world!
+
+<<<<<<< HEAD
+Changed!
+
+=======
+Edit 2!
+>>>>>>> edit2
